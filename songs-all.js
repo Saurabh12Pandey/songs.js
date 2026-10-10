@@ -477,13 +477,5 @@ paint(); setTimeout(paint,400); setTimeout(paint,1500);
     setTimeout(apply, 80);
   });
   [400, 900, 1400, 2000, 3200, 3600].forEach(function (ms) { setTimeout(hook, ms); });
-  var root = document.getElementById("gpc-songs");
-  if (root && window.MutationObserver) {
-    var timer;
-    new MutationObserver(function () {
-      if (locking) return;
-      clearTimeout(timer);
-      timer = setTimeout(apply, 40);
-    }).observe(root, { subtree: true, childList: true, characterData: true });
-  }
+  
 })();
