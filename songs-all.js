@@ -194,7 +194,9 @@ var ALL={
 "197":{"quoteEn":"There are no limits to the universe. You place limits on the universe with your expectations.","quoteHi":"ब्रह्मांड की कोई सीमाएँ नहीं हैं। आप अपनी अपेक्षाओं से ब्रह्मांड पर सीमाएँ लगा देते हैं।","quoteHe":"אין מגבלות ליקום. אתה מציב מגבלות ביקום עם הציפיות שלך.","cite":"Deepak Chopra","heVideo":"https://www.youtube.com/watch?v=GuTap1mcUfc","hiVideo":"https://www.youtube.com/watch?v=_KhQT-LGb-4","heLyrics":"https://lyricstranslate.com/en/srutim-%D7%A9%D7%A8%D7%95%D7%98%D7%99%D7%9D-scratched.html","hiLyrics":"https://lyricstranslate.com/en/aankh-marey-winks-me.html", "heLyricsEn":"This is not a world, this is a madhouse.\nEveryone here is scratched.\nAnd I too am scratched by life.\nIn the end everything is transparent before God.", "heLyricsHe":"זה לא עולם זה בית משוגעים.\nכולם כאן שרוטים.\nוגם אני שרוט על החיים.\nבסוף הכול שקוף מול אלוהים.", "hiLyricsEn":"The girl winks at me.\nWinks at me.\nThe girl winks at me.\nWinks at me.", "hiLyricsHi":"आँख मारे."},
 "200":{"heLyricsEn":"Listen to me, my brother, everything is here.\nGreen grass and a blue sky.\nA yellow Negev, an oasis in the desert.\nIn my opinion nothing is missing.","heLyricsHe":"תקשיב לי אחי יש פה הכל.\nדשא ירוק ורקיע כחול.\nנגב צהוב נווה במדבר.\nלפי דעתי לא חסר שום דבר.","hiLyricsEn":"These threads of attachment.\nThey tangle with your fingers.\nNo one finds a trace.\nHow do these knots untie.","hiLyricsHi":"ये मोह मोह के धागे.\nतेरी उँगलियों से जा उलझे.\nकोई टोह टोह ना लागे.\nकिस तरह गिरहा ये सुलझे.","quoteEn":"Eat what you want, but dress according to fashion.","quoteHi":"जो आप खाना चाहते हैं खाएं, लेकिन फैशन के अनुसार पहनें।","quoteHe":"אכול מה שיש ברצונך, אך התלבש בהתאם לאופנה.","heVideo":"https://www.youtube.com/watch?v=4mWuurhKfYM","hiVideo":"https://www.youtube.com/watch?v=zRzD3-a9_qc","heLyrics":"https://lyricstranslate.com/en/takshiv-li-achi-listen-me-my-brother.html","hiLyrics":"https://lyricstranslate.com/en/ayushmann-khurrana-m%C5%8Dh-m%C5%8Dh-k%C4%93-dh%C4%81g%C4%93-lyrics.html"},
 "273":{"quoteEn":"Eat what you want, but dress according to fashion.","quoteHi":"जो आप खाना चाहते हैं खाएं, लेकिन फैशन के अनुसार पहनें।","quoteHe":"אכול מה שיש ברצונך, אך התלבש בהתאם לאופנה.","heVideo":"https://www.youtube.com/watch?v=qfxgip3SYlA","hiVideo":"https://www.youtube.com/watch?v=oWKgpB2zpgw","heLyrics":"https://lyricstranslate.com/en/he-omeret-she-says.html","hiLyrics":"https://lyricstranslate.com/en/abhi-mujh-mein-kahin-still-somewhere-inside-me.html","hiLyricsEn":"Still, somewhere inside me.\nA little life remains.\nA new heartbeat woke.\nI learned that I am still alive.","hiLyricsHi":"अभी मुझ में कहीं.\nबाकी थोड़ी सी है ज़िन्दगी.\nजगी धड़कन नई.\nजाना ज़िंदा हूँ मैं तो अभी.","heLyricsEn":"She says it is hard for her from time to time.\nAll that happens to you is not good for me.\nShe reveals her wounds alone.\nI would run to her because of every one of her tears.","heLyricsHe":"היא אומרת זה קשה לה לפעמים.\nכל מה שקורה לך זה לא מתאים לי.\nחושפת לבדה את הפצעים.\nעל כל דמעה שלה הייתי רץ אליה."},
-"274":{"quoteEn":"If at first you don’t succeed, free-falling is probably not for you…","quoteHi":"पहली बार सफल न हो तो फ्री-फॉल शायद तुम्हारे लिए नहीं…","quoteHe":"אם בפעם הראשונה לא הצלחת, כנראה שצניחה חופשית אינה בשבילך…","heVideo":"https://www.youtube.com/watch?v=kJnOQQ815LQ","hiVideo":"https://www.youtube.com/watch?v=Dp6lbdoprZ0", "heLyrics":"https://lyricstranslate.com/en/%D7%99%D7%9C%D7%93%D7%94-%D7%A7%D7%98%D7%A0%D7%94-little-girl.html-0", "hiLyrics":"https://lyricstranslate.com/en/main-rahoon-ya-na-rahoon-whether-i-remain-or-not.html","heLyricsHe":"כמה עוד שירים אני אשיר לך באהבה.\nכדי להודות על מה שיש בך.\nכמה עוד מילים אני אתן לך מהנשמה.\nכדי שיהיה לך טוב.", "hiLyricsHi":"मैं रहूँ या न रहूँ\nतुम कहीं मेरे अंदर रहोगे\nअगर मैं आखिरी नींद सोता हूँ तो मेरे सपनों में आना\nबस यही कहना है तुझको"}"275":{"quoteEn":"If you can’t explain it to a six-year-old, you don’t understand it yourself.","quoteHi":"छह साल के बच्चे को न समझा सको तो खुद नहीं समझे।","quoteHe":"אם אינך יכול להסביר לילד בן שש, אינך מבין בעצמך.","heVideo":"https://www.youtube.com/watch?v=y6YpayxgNpY","hiVideo":"https://www.youtube.com/watch?v=zWPsjhBaRb0", "heLyrics":"https://lyricstranslate.com/en/osa-li-zarot-you-make-trouble.html", "hiLyrics":"https://lyricstranslate.com/en/lata-mangeshkar-humko-humise-chura-lo-lyrics.html","heLyricsHe":"ואת עושה לי צרות.\nמופיעה בלילות.\nאיך בחיבוק את מעלה בי אלפי שאלות.\nהאם את אוהבת אותי כמו שאני לפחות.", "hiLyricsHi":"हमको हमी से चुरा लो\nदिल में कहीं तुम छुपा लो\nहम अकेले, खो न जाएँ\nदूर तुमसे, हो न जाएँ\nपास आओ गले से लगा लो"}"276":{"quoteEn":"Success = Hard work × (Goals + Learning from failures)","quoteHi":"सफलता = कड़ी मेहनत × (लक्ष्य + असफलता से सीखना)","quoteHe":"הצלחה = עבודה קשה × (יעדים + למידה מכישלונות)","heVideo":"https://www.youtube.com/watch?v=gdLFagQZh8A","hiVideo":"https://www.youtube.com/watch?v=DAYszemgPxc", "heLyrics":"https://lyricstranslate.com/en/nachon-lhayom-today.html", "hiLyrics":"https://lyricstranslate.com/en/main-agar-kahoon-if-i-say.html","heLyricsHe":"יום יום אני תולש מהלוח דף.\nיום ראשון עצוב.\nיום שני אני שמח.\nויום שלישי הוא יום חדש."},
+"274":{"quoteEn":"If at first you don’t succeed, free-falling is probably not for you…","quoteHi":"पहली बार सफल न हो तो फ्री-फॉल शायद तुम्हारे लिए नहीं…","quoteHe":"אם בפעם הראשונה לא הצלחת, כנראה שצניחה חופשית אינה בשבילך…","heVideo":"https://www.youtube.com/watch?v=kJnOQQ815LQ","hiVideo":"https://www.youtube.com/watch?v=Dp6lbdoprZ0", "heLyrics":"https://lyricstranslate.com/en/%D7%99%D7%9C%D7%93%D7%94-%D7%A7%D7%98%D7%A0%D7%94-little-girl.html-0", "hiLyrics":"https://lyricstranslate.com/en/main-rahoon-ya-na-rahoon-whether-i-remain-or-not.html","heLyricsHe":"כמה עוד שירים אני אשיר לך באהבה.\nכדי להודות על מה שיש בך.\nכמה עוד מילים אני אתן לך מהנשמה.\nכדי שיהיה לך טוב."},
+"275":{"quoteEn":"If you can’t explain it to a six-year-old, you don’t understand it yourself.","quoteHi":"छह साल के बच्चे को न समझा सको तो खुद नहीं समझे।","quoteHe":"אם אינך יכול להסביר לילד בן שש, אינך מבין בעצמך.","heVideo":"https://www.youtube.com/watch?v=y6YpayxgNpY","hiVideo":"https://www.youtube.com/watch?v=zWPsjhBaRb0", "heLyrics":"https://lyricstranslate.com/en/osa-li-zarot-you-make-trouble.html", "hiLyrics":"https://lyricstranslate.com/en/lata-mangeshkar-humko-humise-chura-lo-lyrics.html","heLyricsHe":"ואת עושה לי צרות.\nמופיעה בלילות.\nאיך בחיבוק את מעלה בי אלפי שאלות.\nהאם את אוהבת אותי כמו שאני לפחות."},
+"276":{"quoteEn":"Success = Hard work × (Goals + Learning from failures)","quoteHi":"सफलता = कड़ी मेहनत × (लक्ष्य + असफलता से सीखना)","quoteHe":"הצלחה = עבודה קשה × (יעדים + למידה מכישלונות)","heVideo":"https://www.youtube.com/watch?v=gdLFagQZh8A","hiVideo":"https://www.youtube.com/watch?v=DAYszemgPxc", "heLyrics":"https://lyricstranslate.com/en/nachon-lhayom-today.html", "hiLyrics":"https://lyricstranslate.com/en/main-agar-kahoon-if-i-say.html","heLyricsHe":"יום יום אני תולש מהלוח דף.\nיום ראשון עצוב.\nיום שני אני שמח.\nויום שלישי הוא יום חדש."},
 "277":{"quoteEn":"A chameleon does not leave a tree unless there is another tree.","quoteHi":"गिरगिट दूसरा पेड़ देखे बिना पेड़ नहीं छोड़ता।","quoteHe":"זיקית אינה עוזבת עץ אלא אם יש עץ אחר.","heVideo":"https://www.youtube.com/watch?v=KscLkWdndtI","hiVideo":"https://www.youtube.com/watch?v=Skp5roPkjys", "heLyrics":"https://lyricstranslate.com/en/sheket-sheket-quiet-quiet.html", "hiLyrics":"https://lyricstranslate.com/en/lo-safar-lo-safar.html","heLyricsHe":"רק לשמוע שקט, שקט.\nולסגור המתג, מתג.\nולנסוע אגד, אגד.\nלצאת מכאן."},
 "278":{"quoteEn":"You will achieve far more when you try to impress yourself.","quoteHi":"दूसरों को प्रभावित करने से ज्यादा खुद को प्रभावित करने पर पाओगे।","quoteHe":"תשיג הרבה יותר כשתנסה להרשים את עצמך.","heVideo":"https://www.youtube.com/watch?v=a-sPhsdDr-I","hiVideo":"https://www.youtube.com/watch?v=-NCdeldQLFc", "heLyrics":"https://lyricstranslate.com/en/regal-al-regal-crossed-legs.html", "hiLyrics":"https://lyricstranslate.com/en/lata-mangeshkar-dil-paagal-hai-english","heLyricsHe":"לא ישבתי רגל על רגל על רגל.\nלא ביקשתי פנדל, לא הרמתי דגל.\nרגל על רגל על רגל.\nלא ביקשתי פנדל, לא הרמתי דגל."},
 "279":{"quoteEn":"A lion does not lose sleep over the opinion of a sheep.","quoteHi":"शेर भेड़ की राय पर नींद नहीं खोता।","quoteHe":"אריה אינו מאבד שינה מדעתה של כבשה.","heVideo":"https://www.youtube.com/watch?v=CO09V9J9wfg","hiVideo":"https://www.youtube.com/watch?v=l7GR1S-HNGo", "heLyrics":"https://lyricstranslate.com/en/kol-haoptziot-al-hashulchan-all-options-are.html"},
@@ -369,7 +371,8 @@ var ALL={
 "269":{"hiLyrics":"https://lyricstranslate.com/en/lata-mangeshkar-humko-humise-chura-lo-lyrics.html","hiVideo":"https://www.youtube.com/watch?v=zWPsjhBaRb0","heLyrics":"https://lyricstranslate.com/en/%D7%A2%D7%9C-%D7%9E%D7%A9%D7%9B%D7%91%D7%99-al-mishkabi-my-bed.html","heVideo":"https://www.youtube.com/watch?v=bxqpRm1WTeE","quoteEn": "There is only one way to happiness and that is to cease worrying about things beyond our power.", "quoteHi": "सुख का एक रास्ता है: जो वश से बाहर है उसकी चिंता छोड़ो।", "quoteHe": "יש דרך אחת לאושר: חדל לדאוג למה שמעבר לכוחנו.", "cite": "Epictetus", "heVideo": "https://www.youtube.com/watch?v=qfxgip3SYlA", "hiVideo": "https://www.youtube.com/watch?v=oWKgpB2zpgw","heLyricsEn":"Rise, go out and make your voice heard.\nFrom afar, how will I know you are near.\nReturn to me.\nMemories that scratch the heart, longing mixed with pain, return to me.","heLyricsHe":"קומי צאי והשמיעי קולך.\nמרחוק איך אדע קרבתך.\nשובי אליי.\nזיכרונות ששורטים את הלב, געגוע מהול בכאב, שובי אליי.","hiLyricsEn":"Steal us away from ourselves.\nHide us somewhere in the heart.\nWe are alone, may we not be lost.\nMay we not be far from you.","hiLyricsHi":"हमको हमी से चुरा लो.\nदिल में कहीं तुम छुपा लो.\nहम अकेले, खो न जाएँ.\nदूर तुमसे, हो न जाएँ."},
 "270":{"hiLyrics":"https://lyricstranslate.com/en/kumar-sanu-jab-koi-baat-bigad-jaye-lyrics.html","hiVideo":"https://www.youtube.com/watch?v=mNSYPtzpfd4","heLyrics":"https://lyricstranslate.com/en/doctor-doctor.html-11","heVideo":"https://www.youtube.com/watch?v=yHqotTBczxY","quoteEn": "Man is not worried by real problems so much as by his imagined anxieties.", "quoteHi": "आदमी असली समस्या से कम काल्पनिक चिंता से परेशान है।", "quoteHe": "האדם מוטרד פחות מבעיות אמיתיות ויותר מחרדות מדומות.", "cite": "Epictetus", "heVideo": "https://www.youtube.com/watch?v=ITzMQKr523Y", "hiVideo": "https://www.youtube.com/watch?v=oWKgpB2zpgw","heLyricsEn":"Doctor, save me.\nI am in love.\nMy chest hurts.\nMy heart has been stolen.","heLyricsHe":"דוקטור תציל אותי.\nאני מאוהב.\nכואב לי בחזה.\nהלב שלי נגנב.","hiLyricsEn":"When some matter goes wrong.\nWhen some trouble falls.\nYou give me your company.\nThere is no one else in life besides you.","hiLyricsHi":"जब कोई बात बिगड़ जाए.\nजब कोई मुश्किल पड़ जाए.\nतुम देना साथ मेरा.\nतुम देना साथ मेरा."},
 "271":{"hiLyrics":"https://lyricstranslate.com/en/love-you-zindagi-life-i-love-you.html","hiVideo":"https://www.youtube.com/watch?v=bw7bVpI5VcM","heLyrics":"https://lyricstranslate.com/en/bninu-lanu-bayet-we-built-ourselves-home.html","heVideo":"https://www.youtube.com/watch?v=5yIW14DgLe0","quoteEn": "If you want to be a writer, write.", "quoteHi": "लेखक बनना है तो लिखो।", "quoteHe": "אם אתה רוצה להיות כותב, כתוב.", "cite": "Epictetus", "heVideo": "https://www.youtube.com/watch?v=qfxgip3SYlA", "hiVideo": "https://www.youtube.com/watch?v=oWKgpB2zpgw","hiLyricsEn":"I love you, life.\nI love you, life.\nI love you, life.\nO life, love me.","hiLyricsHi":"Love You ज़िन्दगी.","heLyricsEn":"A thick shell like the trunk of the olive tree.\nFacing the hill we built ourselves a house.\nFlowers we will plant in the garden.\nOur horizon is here.","heLyricsHe":"קליפה עבה כמו גזע עץ הזית.\nמול הגבעה בנינו לנו בית.\nפרחים שנשתול בגן.\nהאופק שלנו כאן."},
-"272":{"quoteEn": "Decide who you want to be, then do what you have to do.", "quoteHi": "तय करो कौन बनना है, फिर वही करो।", "quoteHe": "החלט מי אתה רוצה להיות, ואז עשה.", "cite": "Epictetus", "heVideo": "https://www.youtube.com/watch?v=kBoMjVMua1Q", "heLyrics": "https://lyricstranslate.com/en/ahovi-my-love.html", "hiVideo": "https://www.youtube.com/watch?v=5-vjiRA07nE", "hiLyrics": "https://lyricstranslate.com/en/ae-dil-hai-mushkil-o-heart-its-tough.html", "heLyricsHe":"אהובי\nשנינו מול כולם\nכמו בחלומות\nאתה לי לעולם\nבאושר, בדמעות", "hiLyricsHi":"ऐ दिल है मुश्किल\nतू सफ़र मेरा\nहै तू ही मेरी मंज़िल\nतेरे बिना गुज़ारा\nऐ दिल है मुश्किल"}};
+"272":{"quoteEn": "Decide who you want to be, then do what you have to do.", "quoteHi": "तय करो कौन बनना है, फिर वही करो।", "quoteHe": "החלט מי אתה רוצה להיות, ואז עשה.", "cite": "Epictetus", "heVideo": "https://www.youtube.com/watch?v=kBoMjVMua1Q", "heLyrics": "https://lyricstranslate.com/en/ahovi-my-love.html", "hiVideo": "https://www.youtube.com/watch?v=5-vjiRA07nE", "hiLyrics": "https://lyricstranslate.com/en/ae-dil-hai-mushkil-o-heart-its-tough.html"}
+};
 Object.keys(ALL).forEach(function(k){
   var n=parseInt(k,10), p=('000'+n).slice(-3), d=ALL[k];
   var bag = n<=91 ? window.SONGS_Q1 : n<=182 ? window.SONGS_Q2 : n<=273 ? window.SONGS_Q3 : window.SONGS_Q4;
@@ -377,113 +380,6 @@ Object.keys(ALL).forEach(function(k){
   window.GPC_SONGS[p]=d; window.GPC_SONGS[String(n)]=d;
   window.SONGS[p]=d; window.SONGS[String(n)]=d;
 });
-var Q4TITLES={"272|heLyricsEn": "Ahovi My Love", "272|hiLyricsHi": "Ae Dil Hai Mushkil O Heart Its Tough", "274|heLyricsEn": "ילדה קטנה Little Girl", "274|hiLyricsHi": "Main Rahoon Ya Na Rahoon Whether I Remain Or Not", "275|heLyricsEn": "Osa Li Zarot You Make Trouble", "275|hiLyricsHi": "Lata Mangeshkar Humko Humise Chura Lo", "276|heLyricsEn": "Nachon Lhayom Today", "276|hiLyricsHi": "Main Agar Kahoon If I Say", "277|heLyricsEn": "Sheket Sheket Quiet Quiet", "277|hiLyricsHi": "Lo Safar Lo Safar", "278|heLyricsEn": "Regal Al Regal Crossed Legs", "278|hiLyricsHi": "Lata Mangeshkar Dil Paagal Hai English", "279|heLyricsEn": "Kol Haoptziot Al Hashulchan All Options Are", "280|heLyricsEn": "Shabbat Medley Shabbat Medley", "280|hiLyricsHi": "Shankar Mahadevan Tere Nainaतेरे नैना", "281|heLyricsEn": "Baderech Luman בדרך לאומן בדרך לאומן", "281|hiLyricsHi": "Sunidhi Chauhan Navrai Maajhi English", "282|heLyricsEn": "Einaim עיניים Eyes", "282|hiLyricsHi": "Kajra Re Kohl Lined Eyes", "284|heLyricsEn": "Ma Ata Over What Are You Going Through", "285|heLyricsEn": "Rak Shelach Only Yours", "287|hiLyricsHi": "Ghoomar घूमर Ghoomar", "288|heLyricsEn": "Inta Daiman אינתה דאיימן Inta Daiman Youre Always", "289|heLyricsEn": "Al Kapav Yavi His Shoulders He Will Bring", "290|heLyricsEn": "Im Ninalu If Gates Are Locked", "291|heLyricsEn": "Kayitz Summer", "292|heLyricsEn": "Hvby My Love", "293|heLyricsEn": "Efes Maamatz Zero Effort", "293|hiLyricsHi": "Agar Tum Mil Jao If You Get Meet", "294|heLyricsEn": "Tik Katan Small Bag", "294|hiLyricsHi": "Ae What Life Without You", "295|heLyricsEn": "אדון הסליחות Lord Pardons", "296|heLyricsEn": "Tzipor Midbar Desert Bird", "297|heLyricsEn": "Ma Shani Ohev What I Love", "298|hiLyricsHi": "Jagjit Singh Songster", "299|heLyricsEn": "Shir Al Hayam Song About Sea", "300|heLyricsEn": "Achat Lemillion One Million", "301|heLyricsEn": "Omed Bmirpeset Standing Balcony", "302|heLyricsEn": "Istanbul Istanbul", "303|heLyricsEn": "Shuv Return Again", "304|heLyricsEn": "Beleilot Night", "305|heLyricsEn": "Kaha Bli Shalom Without Saying Goodbye", "306|heLyricsEn": "Amen Al Hayeladim Amen My Children", "307|heLyricsEn": "Bahebak Awi Bachibak Awai", "308|heLyricsEn": "Aluf Haolam אלוף העולם World Champion", "310|heLyricsEn": "שיכורים Shikorim Drunk", "311|heLyricsEn": "Kol Haneshama All My Soul", "312|heLyricsEn": "חזרי אלי Hizri Elay Come Back Me", "313|heLyricsEn": "אללה מעק Allah Maak God You", "314|heLyricsEn": "Miami Miami", "315|heLyricsEn": "מקום אחר Makom Acher Another Place", "316|hiLyricsHi": "Inn Aankhon Mein Tum Jodha Akbar", "317|heLyricsEn": "Shemishehu Yaatzor Oti שמישהו יעצור אותי Let Someone Stop Me", "318|hiLyricsHi": "Selfie Le Le Re Let’S Take Selfie", "319|heLyricsEn": "Hachaim Shelanu Tutim Our Life Strawberries", "320|heLyricsEn": "Bor Gadol Big Light", "321|heLyricsEn": "Ze Lo Ba Bkaloot It Doesnt Come Easy", "322|heLyricsEn": "Kaha Bli Shalom Without Saying Goodbye", "323|heLyricsEn": "Shabbat Medley Shabbat Medley", "324|heLyricsEn": "לא מבינה עברית Lo Mevina Ivrit Cant Speak Hebrew", "325|heLyricsEn": "Al Titkasher Elai אל תתקשר אליי Dont Call Me", "325|hiLyricsHi": "Yeh Haseen Waadiyaan These Beautiful Valleys", "326|heLyricsEn": "Chai חי Alive", "327|hiLyricsHi": "Roke Na Ruke Naina I Cannot Subdue My Eyes", "328|heLyricsEn": "Leehov Otakh Kol Yom Love You Every Day", "329|heLyricsEn": "Feel Magic Feel Magic", "330|heLyricsEn": "Hachaim Shelanu Tutim Our Life Strawberries", "332|heLyricsEn": "מורידים את הירח Moridim Et Hayareach Taking Down Moon", "333|heLyricsEn": "Shabat Baboker שבת בבוקר Saturday Morning", "334|heLyricsEn": "מלחמה Milkhama War", "335|heLyricsEn": "Ayn Kmo Ahavah Nothing Quite Love", "336|heLyricsEn": "Milyon Shirim Million Songs", "338|heLyricsEn": "Kvar Acherai Chatzot Its Already After Midnight", "339|heLyricsEn": "Nosim Daroma נוסעים דרומה נוסעים דרומה", "340|heLyricsEn": "טיול של שבת Tiyoul Shel Shabat Trip Saturday", "340|hiLyricsHi": "Nini Baba Nini Sleep Baby Sleep", "341|heLyricsEn": "על מי את חכמה Do You Think You Can Outsmart Us", "342|heLyricsEn": "טורו Toro Toro", "343|heLyricsEn": "Ana Eli Please O God", "344|heLyricsEn": "Livkot Lekha לבכות לך Cry You", "345|heLyricsEn": "Filterim Yafim Beautiful Filters", "345|hiLyricsHi": "Dil Ko Karaar Aaya My Heart Peace", "346|heLyricsEn": "Sakin Balev Knife Heart", "347|heLyricsEn": "My_avhb_at_hwbt", "348|heLyricsEn": "Katan Aleinu We Got", "349|heLyricsEn": "Bashana Habaa בשנה הבאה Next Year", "350|hiLyricsHi": "Baarish Rain", "351|heLyricsEn": "Yachad Together", "352|heLyricsEn": "שונה מהנוף Shone Mehanof Stand Out View", "353|heLyricsEn": "Dudu Faruk David Hamelech Arak Arak Arak ערק ערק ערק דוד המלך", "356|heLyricsEn": "גמרא סבבה Gmara Sababa Gemara Sababa", "357|heLyricsEn": "Cholemet I Dream", "358|heLyricsEn": "כמה אהבה How Much Love", "359|heLyricsEn": "Regaim Moments", "360|heLyricsEn": "Mi Lo Yavo Who Wont Come", "361|heLyricsEn": "Hasheket Shel Shabbat Quiet Shabbat", "362|heLyricsEn": "Az Ma Acshav So What Now", "363|heLyricsEn": "אהבה ממבט ראשון Ahava Mimabat Rishon Love First Sight", "363|hiLyricsHi": "Phir Le Aya Dil Again Heart Has Brought", "364|heLyricsEn": "אהובה Ahuvah Loved One"};
-Object.keys(Q4TITLES).forEach(function(k){
-  var parts=k.split("|"), day=parts[0], field=parts[1], text=Q4TITLES[k];
-  ["GPC_SONGS","SONGS","SONGS_Q3","SONGS_Q4"].forEach(function(name){
-    var bag=window[name]; if(!bag) return;
-    [day, String(parseInt(day,10))].forEach(function(key){
-      if(!bag[key]) return;
-      if(!bag[key][field]) bag[key][field]=text;
-    });
-  });
-});
 function paint(){ if(typeof window.GPCPaintSongs==='function') window.GPCPaintSongs(); }
 paint(); setTimeout(paint,400); setTimeout(paint,1500);
-})();
-
-/* Each language tab shows only that language. No cross-script fallback. */
-(function () {
-  if (window.__GPC_LANG_ONLY__) return;
-  window.__GPC_LANG_ONLY__ = true;
-
-  function pad(n) { return String(n).padStart(3, "0"); }
-  function dayData() {
-    var n = (typeof window.GPCCurrentDay === "function") ? window.GPCCurrentDay() : 1;
-    var bag = window.GPC_SONGS || {};
-    return bag[pad(n)] || bag[String(n)] || bag[n] || null;
-  }
-  function langNow() {
-    var btn = document.querySelector("#gpc-songs .lang-btn.active[data-lang]");
-    return (btn && btn.getAttribute("data-lang")) || "en";
-  }
-  function cardOf(titleId) {
-    var t = document.getElementById(titleId);
-    return t ? (t.closest(".music-card") || t.parentElement) : null;
-  }
-  var locking = false;
-  function apply() {
-    if (locking) return;
-    if (!document.getElementById("gpc-songs")) return;
-    locking = true;
-    try {
-      var lang = langNow();
-      var data = dayData() || {};
-      var quotes = { en: data.quoteEn || "", he: data.quoteHe || "", hi: data.quoteHi || "" };
-      ["en", "he", "hi"].forEach(function (code) {
-        var q = document.getElementById("quote-" + code);
-        if (q) q.textContent = quotes[code];
-      });
-      // Both song cards follow the selected language tab.
-      // English: English lyrics. Hebrew: Hebrew lyrics. Hindi: Hindi lyrics.
-      var heText = lang === "he" ? (data.heLyricsHe || "") : (lang === "hi" ? (data.heLyricsHi || "") : (data.heLyricsEn || ""));
-      var hiText = lang === "hi" ? (data.hiLyricsHi || "") : (lang === "he" ? (data.hiLyricsHe || "") : (data.hiLyricsEn || ""));
-      var heBody = document.getElementById("he-lyrics-en");
-      var hiBody = document.getElementById("hi-lyrics-en");
-      if (heBody) {
-        heBody.textContent = heText;
-        heBody.setAttribute("dir", /[\u0590-\u05FF]/.test(heText) ? "rtl" : "ltr");
-        heBody.style.display = heText ? "" : "none";
-      }
-      if (hiBody) {
-        hiBody.textContent = hiText;
-        hiBody.setAttribute("dir", /[\u0590-\u05FF]/.test(hiText) ? "rtl" : "ltr");
-        hiBody.style.display = hiText ? "" : "none";
-      }
-      var heCard = cardOf("he-card-title");
-      var hiCard = cardOf("hi-card-title");
-      if (heCard) heCard.style.display = (heText || data.heVideo || data.heLyrics) ? "" : "none";
-      if (hiCard) hiCard.style.display = (hiText || data.hiVideo || data.hiLyrics) ? "" : "none";
-    } finally {
-      locking = false;
-    }
-  }
-  function hook() {
-    if (typeof window.GPCPaintSongs === "function" && !window.GPCPaintSongs.__langOnly) {
-      var orig = window.GPCPaintSongs;
-      var wrapped = function () {
-        var r = orig.apply(this, arguments);
-        apply();
-        return r;
-      };
-      wrapped.__langOnly = true;
-      window.GPCPaintSongs = wrapped;
-    }
-    if (typeof window.switchLang === "function" && !window.switchLang.__langOnly) {
-      var origSwitch = window.switchLang;
-      var wrappedSwitch = function (lang) {
-        var r = origSwitch.apply(this, arguments);
-        apply();
-        return r;
-      };
-      wrappedSwitch.__langOnly = true;
-      window.switchLang = wrappedSwitch;
-    }
-    apply();
-  }
-  hook();
-  window.addEventListener("hashchange", function () {
-    setTimeout(apply, 0);
-    setTimeout(apply, 80);
-  });
-  [400, 900, 1400, 2000, 3200, 3600].forEach(function (ms) { setTimeout(hook, ms); });
-  var root = document.getElementById("gpc-songs");
-  if (root && window.MutationObserver) {
-    var timer;
-    new MutationObserver(function () {
-      if (locking) return;
-      clearTimeout(timer);
-      timer = setTimeout(apply, 40);
-    }).observe(root, { subtree: true, childList: true, characterData: true });
-  }
 })();
