@@ -392,3 +392,58 @@ Object.keys(Q4TITLES).forEach(function(k){
 function paint(){ if(typeof window.GPCPaintSongs==='function') window.GPCPaintSongs(); }
 paint(); setTimeout(paint,400); setTimeout(paint,1500);
 })();
+
+/* === GPC Hindi chorus patches === */
+(function(){
+  var P = {
+    "209": {"hiLyricsHi":"मुझसे ही आज मुझको मिला दे\nदेखूँ आदतों में, तू है की नहीं\nहर सांस से पूछके बता दे\nइनके फ़ासलों में, तू है की नहीं","hiLyricsEn":"With myself indeed today make me meet\nIf I look among my habits, are you there or not?\nAfter asking every breath, tell me\nIn those distances, are you there or not?"},
+    "211": {"hiLyricsHi":"दिल ने यह कहा है दिल से\nमोहब्बत हो गई है तुमसे\nदिल ने यह कहा है दिल से\nमोहब्बत हो गई है तुमसे","hiLyricsEn":"My heart has said this to your heart\nI've fallen in love with you\nMy heart has said this to your heart\nI've fallen in love with you"},
+    "213": {"hiLyricsHi":"","hiLyricsEn":"If the moon was to recommend me, this is what he'd say to you\nI want to drop the veil of decency, I want to cross the line with you\nI insist on destroying myself"},
+    "273": {"hiLyricsHi":"अभी मुझ में कहीं\nअभी मुझ में कहीं\nबाकी थोड़ी सी है ज़िन्दगी\nजगी धड़कन नई\nजाना ज़िंदा हूँ मैं तो अभी","hiLyricsEn":"Still, somewhere inside me,\nStill, somewhere inside me,\nthere is a little life remaining.\nA new heartbeat came up,\nI got to know that I am still alive."},
+    "311": {"hiLyricsHi":"","hiLyricsEn":"In every moment life is changing\nSometimes it's in shade, sometimes it's under sun\nLive at fullest every moment\nWhatever is there, may not be tomorrow"},
+    "316": {"hiLyricsHi":"इन आँखों में तुम\nInn aankhon mein tum jab se base ho\nSaara jag roop tera\nPreet ye rang ab to tere sang","hiLyricsEn":"In these eyes, you\nSince you have settled in these eyes\nThe whole world is your face\nThis color of love, now with you"},
+    "319": {"hiLyricsHi":"आशिक़ बनाया आपने\nतेरे बिन सूनी सूनी हैं बाँहें\nतेरे बिन प्यासी प्यासी निगाहें\nतेरे बिन बिन असर मेरी आहें","hiLyricsEn":"You made me a lover\nWithout you, my arms are empty\nWithout you, my glances are thirsty\nWithout you, my sighs have no effect"},
+    "320": {"hiLyricsHi":"","hiLyricsEn":"I can never bear the look of sadness in your eyes\nI will keep you happy my darling\nI can never bear your silence\nI will listen to everything you have to say my darling\nI will never play with your heart"},
+    "322": {"hiLyricsHi":"जब जब तेरे पास मैं आया एक सुकून मिला\nजिसे मैं था भूलता आया वह वजूद मिला\nजब आये मौसम ग़म के तुझे याद किया\nजब सहमे तन्हापन से तुझे याद किया","hiLyricsEn":"Whenever I came near you, I got a peace,\nThe one I had kept forgetting, I got that existence\nWhen the weather of sorrow came, I remembered you,\nWhen I was scared with loneliness, I remembered you"},
+    "324": {"hiLyricsHi":"हम जो चलने लगे\nचलने लगे है यह रास्ते\nआ हां हां मंज़िल से बेहतर\nलगने लगे है यह रास्ते","hiLyricsEn":"When we started walking\nThese roads started walking\nAh, better than the destination\nThese roads started to feel"},
+    "327": {"hiLyricsHi":"","hiLyricsEn":"In the coming days that I could not see you,\nLest I may die without seeing you.\nIn the coming days that I could not see you,\nLest I may die without seeing you."},
+    "328": {"hiLyricsHi":"जग घुमेया थारे जैसा ना कोई\nजग घुमेया थारे जैसा ना कोई","hiLyricsEn":"I roamed the world, there is no one like you\nI roamed the world, there is no one like you"},
+    "329": {"hiLyricsHi":"अच्छा चलता हूँ, दुआओं में याद रखना\nमेरे ज़िक्र का ज़ुबाँ पे स्वाद रखना\nअच्छा चलता हूँ, दुआओं में याद रखना\nमेरे ज़िक्र का ज़ुबाँ पे स्वाद रखना","hiLyricsEn":"Alright, I'm leaving now.\nPlease remember me in your prayers,\nkeep the taste of my name on your tongue.\nAlright, I'm leaving now.\nPlease remember me in your prayers,\nkeep the taste of my name on your tongue."},
+    "334": {"hiLyricsHi":"अच्छा चलता हूँ, दुआओं में याद रखना\nमेरे ज़िक्र का ज़ुबाँ पे स्वाद रखना\nअच्छा चलता हूँ, दुआओं में याद रखना\nमेरे ज़िक्र का ज़ुबाँ पे स्वाद रखना","hiLyricsEn":"Alright, I'm leaving now.\nPlease remember me in your prayers,\nkeep the taste of my name on your tongue.\nAlright, I'm leaving now.\nPlease remember me in your prayers,\nkeep the taste of my name on your tongue."},
+    "336": {"hiLyricsHi":"","hiLyricsEn":"O my heart, you are crazy\nOnly you can know what you keep thinking\nOnly you can keep thinking, crazy one\nWhy do you make me dream day and night?"},
+    "338": {"hiLyricsHi":"हमको हमी से चुरा लो\nदिल में कहीं तुम छुपा लो\nहम अकेले, खो न जाएँ\nदूर तुमसे, हो न जाएँ\nपास आओ गले से लगा लो","hiLyricsEn":"Steal me away from myself\nHide me somewhere in your heart\nWe are alone, may we not be lost\nMay we not be far from you\nCome close, embrace me"},
+    "340": {"hiLyricsHi":"नीनी बाबा नीनी\nमक्खन रोटी चीनी\nमक्खन रोटी हो गया\nसो जा बाबा सो जा\nमेरा बाबा सो जा\nनीनी नीना बाबा सो गया","hiLyricsEn":"Sleep baby sleep,\nButter, bread and sugar,\nButter and bread are finished\nSleep baby sleep,\nMy baby sleep\nLittle baby has gone to sleep."},
+    "345": {"hiLyricsHi":"","hiLyricsEn":"Prayers don't work for me anymore\nMedicines don't work for me anymore\nSince the time my heart has fallen for you\nMy sleep of the nights\nMy love in the conversations\nand my peace"},
+    "348": {"hiLyricsHi":"जो तुम ना हो, रहेंगे हम नहीं\nजो तुम ना हो, रहेंगे हम नहीं","hiLyricsEn":"Without you, I won't live\nWithout you, I won't live"},
+    "352": {"hiLyricsHi":"","hiLyricsEn":"I think about you even when I am not thinking about you,\nI think about why we need to get separate?\nI was extremely happy when we were close"},
+    "359": {"hiLyricsHi":"","hiLyricsEn":"Difficult are the rituals of love,\nIt doesn't know this.\nOh! My heart isn't persuaded.\nMy heart isn't persuaded.\nWhy is there this restlessness?\nIt doesn't know this.\nOh! My heart isn't persuaded."},
+    "360": {"hiLyricsHi":"हमको हमी से चुरा लो\nदिल में कहीं तुम छुपा लो\nहम अकेले, खो न जाएँ\nदूर तुमसे, हो न जाएँ\nपास आओ गले से लगा लो","hiLyricsEn":"Steal me away from myself\nHide me somewhere in your heart\nWe are alone, may we not be lost\nMay we not be far from you\nCome close, embrace me"},
+    "361": {"hiLyricsHi":"जब कोई बात बिगड़ जाए\nजब कोई मुश्किल पड़ जाए\nतुम देना साथ मेरा\nजब कोई बात बिगड़ जाए\nजब कोई मुश्किल पड़ जाए\nतुम देना साथ मेरा\nन कोई है\nज़िन्दगी में तुम्हारे शिव\nतुम देना साथ मेरा\nतुम देना साथ मेरा","hiLyricsEn":"When something goes wrong\nWhen some difficulty comes\nYou give me your company\nWhen something goes wrong\nWhen some difficulty comes\nYou give me your company\nThere is no one\nIn your life besides you\nYou give me your company\nYou give me your company"},
+    "362": {"hiLyricsHi":"","hiLyricsEn":"Whatever your heart likes...\nJust welcome it and say \"Hi Hi Hi Hi\"\nWhatever your heart doesn't like..\nJust say to it \"Bye bye bye bye bye\"\nLet it come, Let it come"},
+    "364": {"hiLyricsHi":"अभी मुझ में कहीं\nअभी मुझ में कहीं\nबाकी थोड़ी सी है ज़िन्दगी\nजगी धड़कन नई\nजाना ज़िंदा हूँ मैं तो अभी","hiLyricsEn":"Still, somewhere inside me,\nStill, somewhere inside me,\nthere is a little life remaining.\nA new heartbeat came up,\nI got to know that I am still alive."},
+    "037": {"hiLyricsHi":"","hiLyricsEn":""},
+    "101": {"hiLyricsHi":"","hiLyricsEn":""},
+    "188": {"hiLyricsHi":"","hiLyricsEn":""},
+    "284": {"hiLyricsHi":"","hiLyricsEn":""},
+    "341": {"hiLyricsHi":"","hiLyricsEn":""}
+  };
+
+  function applyPatches(bag){
+    if (!bag) return;
+    Object.keys(P).forEach(function(day){
+      var d = bag[day];
+      if (!d) return;
+      if (P[day].hiLyricsHi !== undefined) d.hiLyricsHi = P[day].hiLyricsHi;
+      if (P[day].hiLyricsEn !== undefined) d.hiLyricsEn = P[day].hiLyricsEn;
+    });
+  }
+
+  applyPatches(window.GPC_SONGS);
+  applyPatches(window.SONGS);
+  applyPatches(window.SONGS_Q1);
+  applyPatches(window.SONGS_Q2);
+  applyPatches(window.SONGS_Q3);
+  applyPatches(window.SONGS_Q4);
+
+  if (typeof window.GPCPaintSongs === 'function') window.GPCPaintSongs();
+})();
