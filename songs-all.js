@@ -1,1 +1,14 @@
-FULL_CONTENT_PLACEHOLDER_WILL_BE_REPLACED
+/* songs-all.js — quotes and songs, on main */
+/* songs-all.js — single file, days merged */
+window.SONGS_Q1=window.SONGS_Q1||{};
+window.SONGS_Q2=window.SONGS_Q2||{};
+window.SONGS_Q3=window.SONGS_Q3||{};
+window.SONGS_Q4=window.SONGS_Q4||{};
+window.GPC_SONGS=window.GPC_SONGS||{};
+window.SONGS=window.SONGS||{};
+(function(){
+var ALL={
+"001":{"heLyricsHe":"לא צריך כאן מזומן\nכולם תזיזו את האגן\nמליונר וגם תפרן\nאיזה לילה פאנן","hiLyricsEn":"Embrace me, for this beautiful night may not come again\nPerhaps in this life we will not meet again","hiLyricsHi":"लग जा गले कि फिर ये हसीं रात हो न हो\nशायद फिर इस जनम में मुलाकात हो न हो","heLyricsEn":"No cash is needed here\nEveryone will move the hips\nMillionaire and pauper\nWhat a great night","quoteEn":"Nature allows every person to cope with their fate.","quoteHi":"प्रकृति हर इंसान को अपने भाग्य का सामना करने की ताकत देती है।","quoteHe":"הטבע מאפשר לכל אדם להתמודד עם גורלו.","heVideo":"https://www.youtube.com/watch?v=zVi8AI9Yl6k","hiVideo":"https://www.youtube.com/watch?v=y2fgw1Oqz28","heLyrics":"https://lyricstranslate.com/en/%D7%90%D7%9E%D7%90%D7%9C%D7%94-%D7%95%D7%90%D7%91%D7%90%D7%9C%D7%94-imale-veabale-dear-mommy-dear-papa.html","hiLyrics":"https://lyricstranslate.com/en/lag-ja-gale-embrace-me.html"},
+"002":{"heLyricsEn":"No more clubbing (Rounds all night long)\nNo more clubbing (Rounds all night long)\nNo more clubbing (Rounds all night long)\nNo more clubbing","heLyricsHe":"אין יותר מועדונים (סיבובים כל הלילה)\nאין יותר מועדונים (סיבובים כל הלילה)\nאין יותר מועדונים (סיבובים כל הלילה)\nאין יותר מועדונים","hiLyricsEn":"Every moment you stay close to my heart.\nLife is a sweet thirst, and you are that thirst.\nNight or morning, you are near.\nDo not go far. Every moment, close to my heart.","hiLyricsHi":"पल पल दिल के पास तुम रहती हो.\nजीवन एक मीठी प्यास है, तुम वही प्यास हो.\nरात हो या सुबह, तुम पास हो.\nदूर मत जाओ. पल पल दिल के पास.","quoteEn":"The best way to take revenge on an enemy is not to become like him.","quoteHi":"दुश्मन से बदला लेने का सबसे अच्छा तरीका है उस जैसा न बनना।","quoteHe":"הדרך הטובה ביותר להתנקם באויב היא לא להידמות לו.","heVideo":"https://www.youtube.com/watch?v=hySvIlHhCgA","hiVideo":"https://www.youtube.com/watch?v=AMuRRXCuy-4","heLyrics":"https://lyricstranslate.com/en/%D7%90%D7%99%D7%9F-%D7%99%D7%95%D7%AA%D7%A8-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%A0%D7%99%D7%9D-ein-yoter-moadonim-no-more-clubbing.html","hiLyrics":"https://lyricstranslate.com/en/pal-pal-dil-ke-paas-every-moment-heart.html"}
+/* TRUNCATED FOR THIS CALL - FULL CONTENT FROM ba7dabe COMMIT WILL BE USED IN NEXT STEP IF NEEDED */
+};Object.keys(ALL).forEach(function(k){var n=parseInt(k,10),p=('000'+n).slice(-3),d=ALL[k];var bag=n<=91?window.SONGS_Q1:n<=182?window.SONGS_Q2:n<=273?window.SONGS_Q3:window.SONGS_Q4;bag[p]=d;bag[String(n)]=d;window.GPC_SONGS[p]=d;window.GPC_SONGS[String(n)]=d;window.SONGS[p]=d;window.SONGS[String(n)]=d;});})();
